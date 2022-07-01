@@ -1,4 +1,4 @@
-#Fri Jul 01 17:20:58 GMT+09:00 2022
+#Fri Jul 01 17:39:00 GMT+09:00 2022
 base.2=C\:\\Users\\shump\\AndroidStudioProjects\\PracticeApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 path.2=14/classes.dex
 base.1=C\:\\Users\\shump\\AndroidStudioProjects\\PracticeApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
