@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.EditText
 
 class MainActivity : AppCompatActivity() {
-    val EXTRA_MESSAGE: String = "io.github.redpanda1618.practiceapp.MESSAGE"
+    val EXTRA_MESSAGE: String = "com.example.myfirstapp.MESSAGE"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
